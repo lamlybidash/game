@@ -15,6 +15,7 @@
 
         <div>
             {{ props.score }}
+            duy changed
         </div>
 
     </div>
